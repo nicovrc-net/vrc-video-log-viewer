@@ -41,4 +41,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ### Contact
-For questions or support, please open an issue on the GitHub repository or contact me at mika@vrugd.jp.
+For questions or support, please open an issue on the GitHub repository or contact.
